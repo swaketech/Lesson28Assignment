@@ -1,4 +1,4 @@
-// Put your JavaScript code in this file
+// Put your JavaScript code in this file 
 console.log("e");
 const answers = ["Yes","No","Maybe","Ask again later","Cannot predict now","Most likely","Outlook not so good"];
 const circle = document.getElementById("circle");
